@@ -1,2 +1,2 @@
 # IIMpress.CV
-Help build you cv points
+Cv Point Builder Agent
